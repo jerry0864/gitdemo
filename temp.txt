@@ -1,7 +1,9 @@
-git ����
-�ϲ���֧�����غ�Զ�̷�֧������
-�����½���֧dev��������Ͳ��½�Զ�̷�֧dev.
+git 操作
+合并分支，本地和远程分支操作；
+本地新建分支dev，如何推送并新建远程分支dev.
 cherry
 cherry-pick
 
+
 haha
+
